@@ -1,0 +1,2 @@
+alpha,fit_intercept,max_iter,solver,best_score
+0.1,False,500,auto,0.9636650981008348
